@@ -1,4 +1,4 @@
-# Daily Tasks - 25-09-2026
+# python_sql Daily Tasks - 25-09-2026
 
 This repository contains Python and SQL tasks completed as part of the daily assignment.
 
